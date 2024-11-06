@@ -6,14 +6,19 @@
 
 🔭 I'm been proud of saying that I am changing carrer right now.
 Last six months I've been working directly on systems integrations projects.
-
+</p>
 Unfortunately these projects are private, so I can't share the code here. Instead, let’s discuss the main topics involved.
-
+</p>
 Project 1 - Integration between a Hospital Information System (HIS) and a healthcare auditing system for billing and insurance authorizations.
+</p>
 Project 2 - Integration between a HIS and a PACS in order to receive and storage medical reports.
+</p>
 Project 3 - Integration between a HIS and a partner that basically send automaticaly the invoices to a municipality server avoiding rework with inputing manually data in the municipality website.
+</p>
 Project 4 - Development of an API to provide endpoints serving data to be consumed by an application that displays a status panel for family members, keeping them updated on their relatives' surgical procedures.
+</p>
 Project 5 - Development of an API to be consumed by an application used by nurses, allowing them to easily update the current stage of a surgery.
+</p>
 
 </p>
 🌱 I’m currently learning JavaScript and Kotlin, so I'll be happy to collaborate on projects or questions about these tecnologies.
