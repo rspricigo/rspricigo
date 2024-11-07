@@ -4,7 +4,7 @@
 
 ### Welcome to my Github profile.
 
-🔭 I'm proud to say that I am currently changing my. For the past six months I've been working directly on systems integrations projects.
+🔭 I'm proud to say that I am currently changing my carrer. For the past six months I've been working directly on systems integrations projects.
 </p>
 Unfortunately these projects are private, so I can't share the code here. Instead, let’s discuss the main topics involved.
 </p>
