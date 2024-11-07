@@ -4,8 +4,7 @@
 
 ### Welcome to my Github profile.
 
-🔭 I'm been proud of saying that I am changing carrer right now.
-Last six months I've been working directly on systems integrations projects.
+🔭 I'm proud to say that I am currently changing my. For the past six months I've been working directly on systems integrations projects.
 </p>
 Unfortunately these projects are private, so I can't share the code here. Instead, let’s discuss the main topics involved.
 </p>
@@ -13,7 +12,7 @@ Project 1 - Integration between a Hospital Information System (HIS) and a health
 </p>
 Project 2 - Integration between a HIS and a PACS in order to receive and storage medical reports.
 </p>
-Project 3 - Integration between a HIS and a partner that basically send automaticaly the invoices to a municipality server avoiding rework with inputing manually data in the municipality website.
+Project 3 - Integration between a HIS and a partner that automatically sends invoices to a municipal, eliminating the need for manual data entry on the municipality's website and reducing rework.
 </p>
 Project 4 - Development of an API to provide endpoints serving data to be consumed by an application that displays a status panel for family members, keeping them updated on their relatives' surgical procedures.
 </p>
